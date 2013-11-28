@@ -13,7 +13,7 @@ layout: default
      8.  Andrew Bennieston               1484  (3)
      9.  Marcus Granado                  1467  (2)
 ### Games
-    2013-11-28:      Jonathan Davies - Marcus Granado            1 - 0
+    2013-11-28:       Marcus Granado - Jonathan Davies           0 - 1
     2013-11-26:       Simon Beaumont - Jonathan Davies           1 - 0
     2013-11-26:      Jonathan Davies - John Else                 0 - 1
     2013-11-22:      Jonathan Davies - Andrew Bennieston         1 - 0
