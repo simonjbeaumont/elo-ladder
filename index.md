@@ -8,11 +8,12 @@ layout: default
      3.  Felipe Franciosi                1516  (1)
      4.  Dave Scott                      1500  (0)
      5.  Matt Portas                     1500  (0)
-     6.  Simon Beaumont                  1485  (5)
-     7.  Andrew Bennieston               1484  (3)
-     8.  Marcus Granado                  1483  (1)
-     9.  Jonathan Davies                 1482  (5)
+     6.  Jonathan Davies                 1498  (6)
+     7.  Simon Beaumont                  1485  (5)
+     8.  Andrew Bennieston               1484  (3)
+     9.  Marcus Granado                  1467  (2)
 ### Games
+    2013-11-28:      Jonathan Davies - Marcus Granado            1 - 0
     2013-11-26:       Simon Beaumont - Jonathan Davies           1 - 0
     2013-11-26:      Jonathan Davies - John Else                 0 - 1
     2013-11-22:      Jonathan Davies - Andrew Bennieston         1 - 0
