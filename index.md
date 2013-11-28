@@ -13,12 +13,12 @@ layout: default
      8.  Marcus Granado                  1483  (1)
      9.  Jonathan Davies                 1482  (5)
 ### Games
-    26/11/2013         Simon Beaumont - Jonathan Davies           1 - 0
-    26/11/2013        Jonathan Davies - John Else                 0 - 1
-    22/11/2013        Jonathan Davies - Andrew Bennieston         1 - 0
-    21/11/2013         Simon Beaumont - Rob Hoes                  0 - 1
-    21/11/2013         Simon Beaumont - Andrew Bennieston         0 - 1
-    21/11/2013        Jonathan Davies - Marcus Granado            1 - 0
-    19/11/2013        Jonathan Davies - Felipe Franciosi          0 - 1
-    18/11/2013               Rob Hoes - Simon Beaumont            1 - 0
-    15/11/2013      Andrew Bennieston - Simon Beaumont            0 - 1
+       Andrew Bennieston - Simon Beaumont            0 - 1
+                Rob Hoes - Simon Beaumont            1 - 0
+         Jonathan Davies - Felipe Franciosi          0 - 1
+         Jonathan Davies - Marcus Granado            1 - 0
+          Simon Beaumont - Andrew Bennieston         0 - 1
+          Simon Beaumont - Rob Hoes                  0 - 1
+         Jonathan Davies - Andrew Bennieston         1 - 0
+         Jonathan Davies - John Else                 0 - 1
+          Simon Beaumont - Jonathan Davies           1 - 0
