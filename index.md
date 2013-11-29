@@ -6,13 +6,15 @@ layout: default
      1.  Rob Hoes                        1531  (2)
      2.  John Else                       1516  (1)
      3.  Felipe Franciosi                1516  (1)
-     4.  Dave Scott                      1500  (0)
-     5.  Matt Portas                     1500  (0)
-     6.  Jonathan Davies                 1498  (6)
+     4.  Stephen Turner                  1515  (1)
+     5.  Dave Scott                      1500  (0)
+     6.  Matt Portas                     1500  (0)
      7.  Simon Beaumont                  1485  (5)
      8.  Andrew Bennieston               1484  (3)
-     9.  Marcus Granado                  1467  (2)
+     9.  Jonathan Davies                 1482  (7)
+    10.  Marcus Granado                  1467  (2)
 ### Games
+    2013-11-29:       Stephen Turner - Jonathan Davies           1 - 0
     2013-11-28:       Marcus Granado - Jonathan Davies           0 - 1
     2013-11-26:       Simon Beaumont - Jonathan Davies           1 - 0
     2013-11-26:      Jonathan Davies - John Else                 0 - 1
