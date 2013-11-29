@@ -9,11 +9,12 @@ layout: default
      4.  Stephen Turner                  1515  (1)
      5.  Dave Scott                      1500  (0)
      6.  Matt Portas                     1500  (0)
-     7.  Simon Beaumont                  1485  (5)
+     7.  Jonathan Davies                 1498  (8)
      8.  Andrew Bennieston               1484  (3)
-     9.  Jonathan Davies                 1482  (7)
+     9.  Simon Beaumont                  1469  (6)
     10.  Marcus Granado                  1467  (2)
 ### Games
+    2013-11-29:      Jonathan Davies - Simon Beaumont            1 - 0
     2013-11-29:       Stephen Turner - Jonathan Davies           1 - 0
     2013-11-28:       Marcus Granado - Jonathan Davies           0 - 1
     2013-11-26:       Simon Beaumont - Jonathan Davies           1 - 0
