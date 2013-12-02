@@ -14,7 +14,7 @@ layout: default
      9.  Simon Beaumont                  1469  (6)
     10.  Marcus Granado                  1467  (2)
 ### Games
-    2013-12- 2:     Felipe Franciosi - Rob Hoes                  1 - 0
+    2013-12-02:     Felipe Franciosi - Rob Hoes                  1 - 0
     2013-11-29:      Jonathan Davies - Simon Beaumont            1 - 0
     2013-11-29:       Stephen Turner - Jonathan Davies           1 - 0
     2013-11-28:       Marcus Granado - Jonathan Davies           0 - 1
