@@ -8,13 +8,14 @@ layout: default
      3.  Stephen Turner                  1529  (2)
      4.  John Else                       1516  (1)
      5.  Jonathan Davies                 1514  (9)
-     6.  Andrew Bennieston               1501  (4)
+     6.  Matt Portas                     1486  (3)
      7.  Dave Scott                      1484  (1)
      8.  Thomas Sanders                  1483  (1)
-     9.  Matt Portas                     1469  (2)
+     9.  Andrew Bennieston               1483  (5)
     10.  Marcus Granado                  1467  (2)
     11.  Simon Beaumont                  1455  (7)
 ### Games
+    2013-12-04:    Andrew Bennieston - Matt Portas               0 - 1
     2013-12-04:      Jonathan Davies - Thomas Sanders            1 - 0
     2013-12-04:       Simon Beaumont - Stephen Turner            0 - 1
     2013-12-03:          Matt Portas - Rob Hoes                  0 - 1
