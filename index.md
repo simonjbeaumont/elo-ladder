@@ -16,7 +16,7 @@ layout: default
     11.  Simon Beaumont                  1455  (7)
 ### Games
     2013-12-04:      Jonathan Davies - Thomas Sanders            1 - 0
-    2013-12-04:       Stephen Turner - Simon Beaumont            1 - 0
+    2013-12-04:       Simon Beaumont - Stephen Turner            0 - 1
     2013-12-03:          Matt Portas - Rob Hoes                  0 - 1
     2013-12-03:           Dave Scott - Rob Hoes                  0 - 1
     2013-12-02:          Matt Portas - Andrew Bennieston         0 - 1
