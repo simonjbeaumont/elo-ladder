@@ -5,16 +5,17 @@ layout: default
 ### Ladder
      1.  Rob Hoes                        1559  (5 / 6)
      2.  Felipe Franciosi                1532  (2 / 2)
-     3.  Stephen Turner                  1527  (3 / 4)
-     4.  John Else                       1516  (1 / 1)
-     5.  Jonathan Davies                 1514  (5 / 9)
+     3.  Jonathan Davies                 1528  (6 / 10)
+     4.  Stephen Turner                  1527  (3 / 4)
+     5.  John Else                       1516  (1 / 1)
      6.  Dave Scott                      1484  (0 / 1)
      7.  Thomas Sanders                  1483  (0 / 1)
      8.  Matt Portas                     1473  (2 / 6)
-     9.  Simon Beaumont                  1472  (3 / 8)
-    10.  Marcus Granado                  1467  (0 / 2)
-    11.  Andrew Bennieston               1466  (2 / 6)
+     9.  Marcus Granado                  1467  (0 / 2)
+    10.  Andrew Bennieston               1466  (2 / 6)
+    11.  Simon Beaumont                  1458  (3 / 9)
 ### Games
+    2013-12-09:       Simon Beaumont - Jonathan Davies           0 - 1
     2013-12-06:          Matt Portas - Andrew Bennieston         1 - 0
     2013-12-06:       Simon Beaumont - Matt Portas               1 - 0
     2013-12-06:             Rob Hoes - Stephen Turner            1 - 0
