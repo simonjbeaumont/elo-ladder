@@ -10,11 +10,12 @@ layout: default
      5.  John Else                       1516  (1 / 1)
      6.  Dave Scott                      1484  (0 / 1)
      7.  Thomas Sanders                  1483  (0 / 1)
-     8.  Matt Portas                     1473  (2 / 6)
-     9.  Marcus Granado                  1467  (0 / 2)
-    10.  Andrew Bennieston               1466  (2 / 6)
-    11.  Simon Beaumont                  1458  (3 / 9)
+     8.  Andrew Bennieston               1482  (3 / 7)
+     9.  Matt Portas                     1473  (2 / 6)
+    10.  Marcus Granado                  1467  (0 / 2)
+    11.  Simon Beaumont                  1442  (3 / 10)
 ### Games
+    2013-12-10:    Andrew Bennieston - Simon Beaumont            1 - 0
     2013-12-09:       Simon Beaumont - Jonathan Davies           0 - 1
     2013-12-06:          Matt Portas - Andrew Bennieston         1 - 0
     2013-12-06:       Simon Beaumont - Matt Portas               1 - 0
