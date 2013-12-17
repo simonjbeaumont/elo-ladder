@@ -8,13 +8,14 @@ layout: default
      3.  Jonathan Davies                 1538  (8 / 13)
      4.  Felipe Franciosi                1532  (2 / 2)
      5.  John Else                       1516  (1 / 1)
-     6.  Thomas Sanders                  1483  (0 / 1)
-     7.  Matt Portas                     1479  (5 / 12)
+     6.  Matt Portas                     1493  (6 / 13)
+     7.  Thomas Sanders                  1483  (0 / 1)
      8.  Dave Scott                      1470  (0 / 2)
      9.  Marcus Granado                  1467  (0 / 2)
     10.  Simon Beaumont                  1459  (4 / 11)
-    11.  Andrew Bennieston               1446  (4 / 11)
+    11.  Andrew Bennieston               1432  (4 / 12)
 ### Games
+    2013-12-17:          Matt Portas - Andrew Bennieston         1 - 0
     2013-12-13:       Stephen Turner - Jonathan Davies           1 - 0
     2013-12-12:    Andrew Bennieston - Matt Portas               0 - 1
     2013-12-12:          Matt Portas - Andrew Bennieston         1 - 0
