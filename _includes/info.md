@@ -1,6 +1,6 @@
 ## Getting involved
 
-This page---[_simonjbeaumont.com/elo-ladder_]({{ site.url }})---is
+This page&mdash;[_simonjbeaumont.com/elo-ladder_]({{ site.url }})&mdash;is
 automatically updated as a result of editing files in the following repository:
 
 * [Add a **Player**](https://github.com/robhoes/elo-ladder/edit/master/players)
