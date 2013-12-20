@@ -9,12 +9,13 @@ layout: default
      4.  Jonathan Davies                 1538  (8 / 13)
      5.  John Else                       1502  (1 / 2)
      6.  Thomas Sanders                  1483  (0 / 1)
-     7.  Dave Scott                      1470  (0 / 2)
-     8.  Marcus Granado                  1467  (0 / 2)
-     9.  Si Beaumont                     1462  (5 / 13)
+     7.  Si Beaumont                     1477  (6 / 14)
+     8.  Dave Scott                      1470  (0 / 2)
+     9.  Marcus Granado                  1467  (0 / 2)
     10.  Matt Portas                     1461  (5 / 13)
-    11.  Andrew Bennieston               1436  (5 / 14)
+    11.  Andrew Bennieston               1422  (5 / 15)
 ### Games
+    2013-12-19:          Si Beaumont - Andrew Bennieston         1 - 0
     2013-12-19:       Stephen Turner - Andrew Bennieston         1 - 0
     2013-12-19:       Stephen Turner - Si Beaumont               1 - 0
     2013-12-18:    Andrew Bennieston - Si Beaumont               0 - 1
