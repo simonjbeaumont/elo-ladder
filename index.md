@@ -4,17 +4,19 @@ layout: default
 # XenServer Chess Ladder
 ### Ladder
      1.  Rob Hoes                           1584  (7 / 8)
-     2.  Stephen Turner                     1566  (7 / 9)
-     3.  Felipe Franciosi                   1549  (3 / 3)
-     4.  Jonathan Davies                    1523  (8 / 14)
+     2.  Stephen Turner                     1580  (8 / 10)
+     3.  Felipe Franciosi                   1562  (4 / 4)
+     4.  Jonathan Davies                    1509  (8 / 15)
      5.  John Else                          1502  (1 / 2)
      6.  Thomas Sanders                     1483  (0 / 1)
      7.  Si Beaumont                        1477  (6 / 14)
      8.  Dave Scott                         1470  (0 / 2)
-     9.  Marcus Granado                     1467  (0 / 2)
-    10.  Matt Portas                     ☠  1461  (5 / 13)
+     9.  Matt Portas                     ☠  1461  (5 / 13)
+    10.  Marcus Granado                     1454  (0 / 3)
     11.  Andrew Bennieston                  1412  (5 / 16)
 ### Games
+    2014-01-20:      Jonathan Davies - Stephen Turner            0 - 1
+    2014-01-13:       Marcus Granado - Felipe Franciosi          0 - 1
     2014-01-08:             Rob Hoes - Andrew Bennieston         1 - 0
     2013-12-20:      Jonathan Davies - Rob Hoes                  0 - 1
     2013-12-19:          Si Beaumont - Andrew Bennieston         1 - 0
