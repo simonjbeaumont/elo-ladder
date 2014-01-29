@@ -14,6 +14,11 @@ layout: default
      9.  Matt Portas                     ☠  1461  (5 / 13)
     10.  Marcus Granado                     1454  (0 / 3)
     11.  Andrew Bennieston                  1410  (6 / 19)
+### Suggested games (least played)
+          Thomas Sanders - Stephen Turner
+             Si Beaumont - Marcus Granado
+                Rob Hoes - John Else
+        Felipe Franciosi - Dave Scott
 ### Games
     2014-01-29:             Rob Hoes - Thomas Sanders            1 - 0
     2014-01-29:      Jonathan Davies - Andrew Bennieston         0 - 1
