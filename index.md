@@ -6,15 +6,16 @@ layout: default
      1.  Felipe Franciosi                   1603  (7 / 7)
      2.  Stephen Turner                     1589  (9.5 / 12)
      3.  Rob Hoes                           1568  (7 / 9)
-     4.  Jonathan Davies                    1505  (10 / 19)
+     4.  Jonathan Davies                    1504  (10.5 / 20)
      5.  John Else                          1502  (1 / 2)
      6.  Thomas Sanders                     1483  (0 / 1)
-     7.  Dave Scott                         1470  (0 / 2)
-     8.  Si Beaumont                        1470  (6.5 / 16)
+     7.  Si Beaumont                        1472  (7 / 17)
+     8.  Dave Scott                         1470  (0 / 2)
      9.  Matt Portas                     ☠  1461  (5 / 13)
     10.  Marcus Granado                     1454  (0 / 3)
     11.  Andrew Bennieston                  1389  (5 / 18)
 ### Games
+    2014-01-28:          Si Beaumont - Jonathan Davies         0.5 - 0.5
     2014-01-28:     Felipe Franciosi - Rob Hoes                  1 - 0
     2014-01-28:      Jonathan Davies - Stephen Turner            0 - 1
     2014-01-23:          Si Beaumont - Felipe Franciosi          0 - 1
