@@ -14,7 +14,11 @@
     <![endif]-->
   </head>
   <body>
+    {% if page.wide %}
+    <div class="wide">
+    {% else %}
     <div class="wrapper">
+    {% endif %}
       <header>
         {% capture info %}{% include info.md %}{% endcapture %}
         {{ info | markdownify }}
