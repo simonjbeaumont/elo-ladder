@@ -2,4 +2,4 @@
 layout: default
 wide: true
 ---
-![Ratings timeline](./ladder.png)
+[![Ratings timeline](./ladder.png)](./ladder.png)
