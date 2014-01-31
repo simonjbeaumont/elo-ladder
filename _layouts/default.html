@@ -18,11 +18,11 @@
     <div class="wide">
     {% else %}
     <div class="wrapper">
-    {% endif %}
       <header>
         {% capture info %}{% include info.md %}{% endcapture %}
         {{ info | markdownify }}
       </header>
+    {% endif %}
       <section>
         {{ content }}
       </section>
