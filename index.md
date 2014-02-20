@@ -19,7 +19,7 @@ layout: default
                John Else - Andrew Bennieston
         Felipe Franciosi - Si Beaumont
 ### Games
-    2014-02-19:            John Else - Felipe Franciosi          0 - 1
+    2014-02-19:     Felipe Franciosi - John Else                 1 - 0
     2014-02-19:       Thomas Sanders - Si Beaumont               0 - 1
     2014-02-18:          Si Beaumont - Jonathan Davies           0 - 1
     2014-02-18:             Rob Hoes - Stephen Turner          0.5 - 0.5
