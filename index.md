@@ -7,15 +7,17 @@ layout: default
      2.  Stephen Turner                     1625  (15 / 19)
      3.  Rob Hoes                           1614  (11.5 / 14)
      4.  Jonathan Davies                    1502  (16 / 31)
-     5.  Dave Scott                      ☠  1471  (0 / 2)
-     6.  Si Beaumont                        1466  (11.5 / 26)
-     7.  Matt Portas                     ☠  1462  (5 / 13)
-     8.  John Else                          1449  (1 / 6)
-     9.  Thomas Sanders                     1444  (0 / 4)
-    10.  Marcus Granado                     1437  (1 / 7)
-    11.  Andrew Bennieston                  1394  (8 / 26)
+     5.  Bill Briscombe                     1500  (0 / 0)
+     6.  Dave Scott                      ☠  1471  (0 / 2)
+     7.  Si Beaumont                        1466  (11.5 / 26)
+     8.  Matt Portas                     ☠  1462  (5 / 13)
+     9.  John Else                          1449  (1 / 6)
+    10.  Thomas Sanders                     1444  (0 / 4)
+    11.  Marcus Granado                     1437  (1 / 7)
+    12.  Andrew Bennieston                  1394  (8 / 26)
 ### Suggested games (least played)
           Thomas Sanders - Marcus Granado
+          Stephen Turner - Bill Briscombe
                John Else - Andrew Bennieston
         Felipe Franciosi - Si Beaumont
 ### Games
