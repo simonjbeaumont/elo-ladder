@@ -6,7 +6,7 @@ layout: default
      1.  Felipe Franciosi                   1637  (10 / 10)
      2.  Stephen Turner                     1625  (15 / 19)
      3.  Rob Hoes                           1614  (11.5 / 14)
-     4.  Jonathan Davies                    1502  (16 / 31)
+     4.  Jonathan Davies                    1513  (17 / 32)
      5.  Bill Briscombe                     1500  (0 / 0)
      6.  Dave Scott                      ☠  1471  (0 / 2)
      7.  Si Beaumont                        1466  (11.5 / 26)
@@ -14,13 +14,14 @@ layout: default
      9.  John Else                          1449  (1 / 6)
     10.  Thomas Sanders                     1444  (0 / 4)
     11.  Marcus Granado                     1437  (1 / 7)
-    12.  Andrew Bennieston                  1394  (8 / 26)
+    12.  Andrew Bennieston                  1382  (8 / 27)
 ### Suggested games (least played)
           Thomas Sanders - Marcus Granado
           Stephen Turner - Bill Briscombe
                John Else - Andrew Bennieston
         Felipe Franciosi - Si Beaumont
 ### Games
+    2014-02-28:      Jonathan Davies - Andrew Bennieston         1 - 0
     2014-02-24:      Jonathan Davies - Si Beaumont             0.5 - 0.5
     2014-02-21:      Jonathan Davies - Stephen Turner            0 - 1
     2014-02-20:            John Else - Jonathan Davies           0 - 1
