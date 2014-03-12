@@ -9,13 +9,13 @@ layout: default
      4.  Jonathan Davies                    1519  (19 / 35)
      5.  Bill Briscombe                     1500  (0 / 0)
      6.  Ravi Pandey                        1499  (0.5 / 1)
-     7.  Si Beaumont                        1472  (13 / 29)
+     7.  Si Beaumont                        1483  (14 / 30)
      8.  Dave Scott                      ☠  1471  (0 / 2)
      9.  Matt Portas                     ☠  1462  (5 / 13)
     10.  Marcus Granado                     1451  (2 / 8)
     11.  John Else                          1449  (1 / 6)
     12.  Thomas Sanders                     1444  (0 / 4)
-    13.  Andrew Bennieston                  1354  (8 / 30)
+    13.  Andrew Bennieston                  1343  (8 / 31)
 ### Suggested games (least played)
           Thomas Sanders - Ravi Pandey
           Marcus Granado - John Else
@@ -23,6 +23,7 @@ layout: default
         Felipe Franciosi - Si Beaumont
        Andrew Bennieston - Rob Hoes
 ### Games
+    2014-03-12:          Si Beaumont - Andrew Bennieston         1 - 0
     2014-03-12:    Andrew Bennieston - Jonathan Davies           0 - 1
     2014-03-10:    Andrew Bennieston - Felipe Franciosi          0 - 1
     2014-03-10:          Si Beaumont - Jonathan Davies         0.5 - 0.5
