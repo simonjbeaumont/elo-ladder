@@ -5,24 +5,25 @@ layout: default
 ### Ladder
      1.  Felipe Franciosi                   1643  (11 / 11)
      2.  Stephen Turner                     1625  (15 / 19)
-     3.  Rob Hoes                           1614  (11.5 / 14)
+     3.  Rob Hoes                           1619  (12.5 / 15)
      4.  Jonathan Davies                    1519  (19 / 35)
      5.  Bill Briscombe                     1500  (0 / 0)
      6.  Ravi Pandey                        1499  (0.5 / 1)
-     7.  Dave Scott                      ☠  1471  (0 / 2)
-     8.  John Else                          1467  (2 / 7)
-     9.  Si Beaumont                        1465  (14 / 31)
+     7.  Si Beaumont                        1476  (15 / 32)
+     8.  Dave Scott                      ☠  1471  (0 / 2)
+     9.  John Else                          1467  (2 / 7)
     10.  Matt Portas                     ☠  1462  (5 / 13)
     11.  Marcus Granado                     1451  (2 / 8)
     12.  Thomas Sanders                     1444  (0 / 4)
-    13.  Andrew Bennieston                  1343  (8 / 31)
+    13.  Andrew Bennieston                  1327  (8 / 33)
 ### Suggested games (least played)
           Thomas Sanders - Ravi Pandey
           Marcus Granado - John Else
           Stephen Turner - Bill Briscombe
         Felipe Franciosi - Si Beaumont
-       Andrew Bennieston - Rob Hoes
 ### Games
+    2014-03-13:    Andrew Bennieston - Rob Hoes                  0 - 1
+    2014-03-13:          Si Beaumont - Andrew Bennieston         1 - 0
     2014-03-13:            John Else - Si Beaumont               1 - 0
     2014-03-12:          Si Beaumont - Andrew Bennieston         1 - 0
     2014-03-12:    Andrew Bennieston - Jonathan Davies           0 - 1
