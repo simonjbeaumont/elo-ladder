@@ -17,9 +17,15 @@ layout: default
     12.  Si Beaumont                        1430  (15.5 / 37)
     13.  Andrew Bennieston                  1320  (8.5 / 36)
 ### Suggested games (least played)
-          Thomas Sanders - Ravi Pandey
+          Thomas Sanders - Andrew Bennieston
+        Felipe Franciosi - Bill Briscombe
           Marcus Granado - John Else
-             Si Beaumont - Bill Briscombe
+         Jonathan Davies - Bill Briscombe
+             Ravi Pandey - Bill Briscombe
+                Rob Hoes - Bill Briscombe
+             Si Beaumont - Thomas Sanders
+          Stephen Turner - Bill Briscombe
+          Thomas Sanders - Marcus Granado
 ### Games
     2014-03-19:       Stephen Turner - Andrew Bennieston         1 - 0
     2014-03-19:          Si Beaumont - Stephen Turner            0 - 1
