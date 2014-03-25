@@ -18,15 +18,15 @@ layout: default
     13.  Andrew Bennieston                  1316  (8.5 / 37)
 ### Suggested games (least played)
           Thomas Sanders - Andrew Bennieston
-             Ravi Pandey - Bill Briscombe
-        Felipe Franciosi - Bill Briscombe
+             Ravi Pandey - Felipe Franciosi
           Marcus Granado - John Else
-         Jonathan Davies - Bill Briscombe
-          Thomas Sanders - Ravi Pandey
-                Rob Hoes - Bill Briscombe
-             Si Beaumont - Thomas Sanders
-          Stephen Turner - Bill Briscombe
+             Ravi Pandey - Jonathan Davies
           Thomas Sanders - Marcus Granado
+          Stephen Turner - Ravi Pandey
+                Rob Hoes - Bill Briscombe
+             Si Beaumont - Bill Briscombe
+          Marcus Granado - Stephen Turner
+          Thomas Sanders - John Else
 ### Games
     2014-03-25:       Bill Briscombe - Rob Hoes                  0 - 1
     2014-03-25:       Stephen Turner - Jonathan Davies           1 - 0
