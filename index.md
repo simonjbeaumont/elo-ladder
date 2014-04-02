@@ -4,7 +4,7 @@ layout: default
 # XenServer Chess Ladder
 ### Ladder
      1.  Felipe Franciosi                   1650  (12 / 12)
-     2.  Stephen Turner                     1642  (20 / 25)
+     2.  Stephen Turner                     1646  (21 / 26)
      3.  Rob Hoes                           1630  (13.5 / 16)
      4.  Jonathan Davies                    1528  (21 / 38)
      5.  Bill Briscombe                     1510  (1 / 2)
@@ -15,7 +15,7 @@ layout: default
     10.  Marcus Granado                     1451  (2 / 8)
     11.  Thomas Sanders                     1444  (0 / 4)
     12.  Si Beaumont                        1430  (15.5 / 37)
-    13.  Andrew Bennieston                  1316  (8.5 / 37)
+    13.  Andrew Bennieston                  1311  (8.5 / 38)
 ### Suggested games (least played)
           Thomas Sanders - Andrew Bennieston
              Ravi Pandey - Felipe Franciosi
@@ -28,6 +28,7 @@ layout: default
           Marcus Granado - Stephen Turner
           Thomas Sanders - John Else
 ### Games
+    2014-04-02:    Andrew Bennieston - Stephen Turner            0 - 1
     2014-03-25:       Bill Briscombe - Rob Hoes                  0 - 1
     2014-03-25:       Stephen Turner - Jonathan Davies           1 - 0
     2014-03-24:    Andrew Bennieston - Stephen Turner            0 - 1
