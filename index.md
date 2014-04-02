@@ -14,8 +14,8 @@ layout: default
      9.  Matt Portas                     ☠  1462  (5 / 13)
     10.  Marcus Granado                     1451  (2 / 8)
     11.  Thomas Sanders                     1444  (0 / 4)
-    12.  Si Beaumont                        1430  (15.5 / 37)
-    13.  Andrew Bennieston                  1311  (8.5 / 38)
+    12.  Si Beaumont                        1409  (15.5 / 38)
+    13.  Andrew Bennieston                  1333  (9.5 / 39)
 ### Suggested games (least played)
           Thomas Sanders - Andrew Bennieston
              Ravi Pandey - Felipe Franciosi
@@ -28,6 +28,7 @@ layout: default
           Marcus Granado - Stephen Turner
           Thomas Sanders - John Else
 ### Games
+    2014-04-02:    Andrew Bennieston - Si Beaumont               1 - 0
     2014-04-02:    Andrew Bennieston - Stephen Turner            0 - 1
     2014-03-25:       Bill Briscombe - Rob Hoes                  0 - 1
     2014-03-25:       Stephen Turner - Jonathan Davies           1 - 0
