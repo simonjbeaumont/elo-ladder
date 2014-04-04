@@ -14,8 +14,8 @@ layout: default
      9.  John Else                          1459  (2 / 8)
     10.  Marcus Granado                     1451  (2 / 8)
     11.  Thomas Sanders                     1444  (0 / 4)
-    12.  Si Beaumont                        1403  (15.5 / 39)
-    13.  Andrew Bennieston                  1333  (9.5 / 39)
+    12.  Si Beaumont                        1384  (15.5 / 40)
+    13.  Andrew Bennieston                  1352  (10.5 / 40)
 ### Suggested games (least played)
           Thomas Sanders - Andrew Bennieston
              Ravi Pandey - Felipe Franciosi
@@ -28,6 +28,7 @@ layout: default
           Marcus Granado - Stephen Turner
           Thomas Sanders - John Else
 ### Games
+    2014-04-04:    Andrew Bennieston - Si Beaumont               1 - 0
     2014-04-04:      Jonathan Davies - Stephen Turner            0 - 1
     2014-04-03:            John Else - Stephen Turner            0 - 1
     2014-04-02:          Si Beaumont - Stephen Turner            0 - 1
