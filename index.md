@@ -6,13 +6,13 @@ layout: default
      1.  Stephen Turner                     1671  (24 / 29)
      2.  Felipe Franciosi                   1650  (12 / 12)
      3.  Rob Hoes                           1630  (13.5 / 16)
-     4.  Jonathan Davies                    1518  (21 / 39)
+     4.  Jonathan Davies                    1531  (22 / 40)
      5.  Bill Briscombe                     1510  (1 / 2)
      6.  Ravi Pandey                        1499  (0.5 / 1)
      7.  Dave Scott                      ☠  1471  (0 / 2)
      8.  Matt Portas                     ☠  1462  (5 / 13)
-     9.  John Else                          1459  (2 / 8)
-    10.  Marcus Granado                     1451  (2 / 8)
+     9.  Marcus Granado                     1451  (2 / 8)
+    10.  John Else                          1445  (2 / 9)
     11.  Thomas Sanders                     1444  (0 / 4)
     12.  Si Beaumont                        1384  (15.5 / 40)
     13.  Andrew Bennieston                  1352  (10.5 / 40)
@@ -28,6 +28,7 @@ layout: default
           Marcus Granado - Stephen Turner
           Thomas Sanders - John Else
 ### Games
+    2014-04-07:            John Else - Jonathan Davies           0 - 1
     2014-04-04:    Andrew Bennieston - Si Beaumont               1 - 0
     2014-04-04:      Jonathan Davies - Stephen Turner            0 - 1
     2014-04-03:            John Else - Stephen Turner            0 - 1
