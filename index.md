@@ -12,9 +12,9 @@ layout: default
      7.  Dave Scott                      ☠  1471  (0 / 2)
      8.  Matt Portas                     ☠  1462  (5 / 13)
      9.  Marcus Granado                     1451  (2 / 8)
-    10.  John Else                          1438  (2 / 10)
-    11.  Thomas Sanders                     1438  (0 / 5)
-    12.  Si Beaumont                        1401  (16.5 / 42)
+    10.  Thomas Sanders                     1438  (0 / 5)
+    11.  John Else                          1420  (2 / 11)
+    12.  Si Beaumont                        1419  (17.5 / 43)
     13.  Andrew Bennieston                  1343  (10.5 / 41)
 ### Suggested games (least played)
           Thomas Sanders - Andrew Bennieston
@@ -28,6 +28,7 @@ layout: default
           Marcus Granado - Stephen Turner
           Thomas Sanders - John Else
 ### Games
+    2014-04-16:            John Else - Si Beaumont               0 - 1
     2014-04-16:     Felipe Franciosi - Stephen Turner            1 - 0
     2014-04-15:          Si Beaumont - Jonathan Davies           1 - 0
     2014-04-14:     Felipe Franciosi - John Else                 1 - 0
