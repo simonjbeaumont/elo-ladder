@@ -3,8 +3,8 @@ layout: default
 ---
 # XenServer Chess Ladder
 ### Ladder
-     1.  Stephen Turner                     1683  (26 / 31)
-     2.  Felipe Franciosi                   1658  (13 / 13)
+     1.  Felipe Franciosi                   1675  (14 / 14)
+     2.  Stephen Turner                     1666  (26 / 32)
      3.  Rob Hoes                           1630  (13.5 / 16)
      4.  Jonathan Davies                    1517  (23 / 42)
      5.  Bill Briscombe                     1510  (1 / 2)
@@ -28,6 +28,7 @@ layout: default
           Marcus Granado - Stephen Turner
           Thomas Sanders - John Else
 ### Games
+    2014-04-16:     Felipe Franciosi - Stephen Turner            1 - 0
     2014-04-15:          Si Beaumont - Jonathan Davies           1 - 0
     2014-04-14:     Felipe Franciosi - John Else                 1 - 0
     2014-04-14:          Si Beaumont - Stephen Turner            0 - 1
