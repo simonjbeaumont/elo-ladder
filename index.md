@@ -12,22 +12,24 @@ layout: default
      7.  Dave Scott                      ☠  1471  (0 / 2)
      8.  Matt Portas                     ☠  1462  (5 / 13)
      9.  Marcus Granado                     1451  (2 / 8)
-    10.  Thomas Sanders                     1432  (0 / 6)
-    11.  John Else                          1420  (2 / 11)
-    12.  Si Beaumont                        1419  (17.5 / 43)
-    13.  Andrew Bennieston                  1334  (11 / 45)
+    10.  John Else                          1420  (2 / 11)
+    11.  Si Beaumont                        1419  (17.5 / 43)
+    12.  Thomas Sanders                     1411  (0 / 7)
+    13.  Andrew Bennieston                  1355  (12 / 46)
 ### Suggested games (least played)
-          Thomas Sanders - Andrew Bennieston
+             Ravi Pandey - Andrew Bennieston
+          Thomas Sanders - Bill Briscombe
              Ravi Pandey - Felipe Franciosi
           Marcus Granado - John Else
-             Ravi Pandey - Jonathan Davies
+         Jonathan Davies - Bill Briscombe
           Thomas Sanders - Marcus Granado
           Stephen Turner - Ravi Pandey
                 Rob Hoes - Bill Briscombe
-             Si Beaumont - Bill Briscombe
+             Si Beaumont - Thomas Sanders
           Marcus Granado - Stephen Turner
           Thomas Sanders - John Else
 ### Games
+    2014-05-06:    Andrew Bennieston - Thomas Sanders            1 - 0
     2014-05-02:    Andrew Bennieston - Jonathan Davies           0 - 1
     2014-05-01:      Jonathan Davies - Andrew Bennieston       0.5 - 0.5
     2014-04-30:       Thomas Sanders - Felipe Franciosi          0 - 1
