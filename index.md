@@ -6,7 +6,7 @@ layout: default
      1.  Felipe Franciosi                   1698  (17 / 17)
      2.  Stephen Turner                     1655  (31.5 / 40)
      3.  Rob Hoes                           1633  (14 / 17)
-     4.  Jonathan Davies                    1525  (27.5 / 51)
+     4.  Jonathan Davies                    1533  (28.5 / 52)
      5.  Ravi Pandey                        1499  (0.5 / 1)
      6.  Bill Briscombe                     1486  (1 / 4)
      7.  Dave Scott                      ☠  1471  (0 / 2)
@@ -15,7 +15,7 @@ layout: default
     10.  Si Beaumont                        1445  (18.5 / 44)
     11.  John Else                          1420  (2 / 11)
     12.  Thomas Sanders                     1411  (0 / 7)
-    13.  Andrew Bennieston                  1346  (12 / 47)
+    13.  Andrew Bennieston                  1338  (12 / 48)
 ### Suggested games (least played)
              Ravi Pandey - Andrew Bennieston
           Thomas Sanders - Bill Briscombe
@@ -29,6 +29,7 @@ layout: default
           Marcus Granado - Stephen Turner
           Thomas Sanders - John Else
 ### Games
+    2014-05-09:    Andrew Bennieston - Jonathan Davies           0 - 1
     2014-05-09:      Jonathan Davies - Stephen Turner            0 - 1
     2014-05-08:      Jonathan Davies - Andrew Bennieston         1 - 0
     2014-05-07:       Stephen Turner - Si Beaumont               0 - 1
