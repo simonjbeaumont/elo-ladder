@@ -4,31 +4,33 @@ layout: default
 # XenServer Chess Ladder
 ### Ladder
      1.  Felipe Franciosi                   1698  (17 / 17)
-     2.  Stephen Turner                     1667  (34 / 43)
+     2.  Stephen Turner                     1675  (35 / 44)
      3.  Rob Hoes                           1633  (14 / 17)
      4.  Jonathan Davies                    1540  (30 / 55)
      5.  Ravi Pandey                        1499  (0.5 / 1)
-     6.  Bill Briscombe                     1486  (1 / 4)
-     7.  Dave Scott                      ☠  1471  (0 / 2)
-     8.  Matt Portas                     ☠  1462  (5 / 13)
-     9.  Si Beaumont                        1445  (18.5 / 44)
-    10.  Marcus Granado                     1431  (2 / 10)
-    11.  John Else                          1420  (2 / 11)
-    12.  Thomas Sanders                     1411  (0 / 7)
-    13.  Andrew Bennieston                  1338  (12 / 48)
+     6.  Philippe Gabriel                   1491  (0 / 1)
+     7.  Bill Briscombe                     1486  (1 / 4)
+     8.  Dave Scott                      ☠  1471  (0 / 2)
+     9.  Matt Portas                     ☠  1462  (5 / 13)
+    10.  Si Beaumont                        1445  (18.5 / 44)
+    11.  Marcus Granado                     1431  (2 / 10)
+    12.  John Else                          1420  (2 / 11)
+    13.  Thomas Sanders                     1411  (0 / 7)
+    14.  Andrew Bennieston                  1338  (12 / 48)
 ### Suggested games (least played)
              Ravi Pandey - Andrew Bennieston
           Thomas Sanders - Bill Briscombe
-             Ravi Pandey - Felipe Franciosi
-          Marcus Granado - John Else
-         Jonathan Davies - Bill Briscombe
-          Thomas Sanders - Marcus Granado
-          Stephen Turner - Ravi Pandey
-                Rob Hoes - Bill Briscombe
-             Si Beaumont - Thomas Sanders
-          Marcus Granado - Stephen Turner
+        Philippe Gabriel - Felipe Franciosi
           Thomas Sanders - John Else
+             Ravi Pandey - Jonathan Davies
+        Philippe Gabriel - Marcus Granado
+             Si Beaumont - Philippe Gabriel
+                Rob Hoes - Bill Briscombe
+             Si Beaumont - Bill Briscombe
+          Stephen Turner - Ravi Pandey
+          Thomas Sanders - Marcus Granado
 ### Games
+    2014-05-14:       Stephen Turner - Philippe Gabriel          1 - 0
     2014-05-14:      Jonathan Davies - Stephen Turner          0.5 - 0.5
     2014-05-14:      Jonathan Davies - Stephen Turner            0 - 1
     2014-05-13:       Stephen Turner - Marcus Granado            1 - 0
