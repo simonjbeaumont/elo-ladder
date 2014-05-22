@@ -13,11 +13,11 @@ layout: default
      8.  Bill Briscombe                     1486  (1 / 4)
      9.  Dave Scott                      ☠  1471  (0 / 2)
     10.  Matt Portas                     ☠  1462  (5 / 13)
-    11.  Si Beaumont                        1445  (18.5 / 44)
+    11.  Si Beaumont                        1434  (19.5 / 46)
     12.  Marcus Granado                     1426  (2 / 11)
     13.  John Else                          1420  (2 / 11)
     14.  Thomas Sanders                     1411  (0 / 7)
-    15.  Andrew Bennieston                  1330  (12 / 49)
+    15.  Andrew Bennieston                  1341  (13 / 51)
 ### Suggested games (least played)
              Ravi Pandey - Andrew Bennieston
           Thomas Sanders - Bill Briscombe
@@ -33,6 +33,8 @@ layout: default
         Gabor Apati-Nagy - Stephen Turner
           Thomas Sanders - Marcus Granado
 ### Games
+    2014-05-22:          Si Beaumont - Andrew Bennieston         0 - 1
+    2014-05-21:    Andrew Bennieston - Si Beaumont               0 - 1
     2014-05-16:       Stephen Turner - Gabor Apati-Nagy          1 - 0
     2014-05-16:      Jonathan Davies - Andrew Bennieston         1 - 0
     2014-05-16:       Marcus Granado - Felipe Franciosi          0 - 1
