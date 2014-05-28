@@ -17,15 +17,13 @@ layout: default
     12.  Marcus Granado                     1426  (2 / 11)
     13.  John Else                          1420  (2 / 11)
     14.  Thomas Sanders                     1411  (0 / 7)
-    15.  Andrew Bennieston                  1338  (13 / 52)
+    15.  Andrew Bennieston               ☠  1338  (13 / 52)
 ### Suggested games (least played)
-             Ravi Pandey - Andrew Bennieston
           Thomas Sanders - Bill Briscombe
-        Philippe Gabriel - Felipe Franciosi
+             Ravi Pandey - Felipe Franciosi
              Si Beaumont - Gabor Apati-Nagy
-          Thomas Sanders - John Else
+        Philippe Gabriel - John Else
              Ravi Pandey - Jonathan Davies
-        Philippe Gabriel - Marcus Granado
                 Rob Hoes - Philippe Gabriel
           Stephen Turner - Ravi Pandey
                 Rob Hoes - Gabor Apati-Nagy
